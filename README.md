@@ -187,7 +187,7 @@ pip install -r requirements.txt
 
 # 3. Run Train
 python -m main
-
+```
 
 ## 🛠️ Technologies Used
 
